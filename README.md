@@ -5,7 +5,7 @@ Some informations of android.os.Build.VERSION_CODES.
 ## Summary
 
 | VersionCodeName                             | API Level   | Name                                                                                | Time    |
-| :-:                                         |:-:          | :-:                                                                                 | :-:     |
+| :-                                          |:-:          | :-                                                                                  | :-:     |
 | Build.VERSION_CODES.TIRAMISU                | 10000(Dev)  | [13.0(Tiramisu)](https://developer.android.com/about/versions/13)                   | TBD     |
 | Build.VERSION_CODES.S_V2                    | 32          | [12L](https://developer.android.com/about/versions/12/12L)                          | TBD     |
 | Build.VERSION_CODES.S                       | 31          | [12.0(S)](https://developer.android.com/about/versions/12)                          | 2021.10 |
