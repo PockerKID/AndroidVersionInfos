@@ -2,9 +2,7 @@
 
 Some informations of android.os.Build.VERSION_CODES.
 
-## android.os.Build.VERSION_CODES
-
-[All Android Releases](https://developer.android.com/about/versions)
+## Summary
 
 | VersionCodeName                             | API Level   | Name                                                                                | Time    |
 | :-:                                         |:-:          | :-:                                                                                 | :-:     |
@@ -41,3 +39,7 @@ Some informations of android.os.Build.VERSION_CODES.
 | Build.VERSION_CODES.CUPCAKE                 | 3           | 1.5(Cupcake)                                                                        | 2009.04 |
 | Build.VERSION_CODES.BASE_1_1                | 2           | 1.1                                                                                 | 2009.02 |
 | Build.VERSION_CODES.BASE                    | 1           | 1.0                                                                                 | 2008.09 |
+
+## Details
+
+You can see more version history informations [here](https://en.wikipedia.org/wiki/Android_version_history), and more develop informations [here](https://developer.android.com/about/versions).
