@@ -8,7 +8,7 @@ android.os.Build.VERSION_CODES
 
 | VersionCodeName                             | API Level   | Name                                                                                | Time    |
 | :-                                          | :-:         | :-                                                                                  | :-:     |
-| Build.VERSION_CODES.TIRAMISU                | 33          | [13.0(Tiramisu)$^{Beta}$](https://developer.android.com/about/versions/13)          | TBD     |
+| Build.VERSION_CODES.TIRAMISU                | 33          | [13.0(Tiramisu)<sup>Beta</sup>](https://developer.android.com/about/versions/13)          | TBD     |
 | Build.VERSION_CODES.S_V2                    | 32          | [12L(Snow Cone)](https://developer.android.com/about/versions/12/12L)               | 2022.03 |
 | Build.VERSION_CODES.S                       | 31          | [12.0(Snow Cone)](https://developer.android.com/about/versions/12)                  | 2021.10 |
 | Build.VERSION_CODES.R                       | 30          | [11.0(Red Velvet Cake)](https://developer.android.com/about/versions/11)            | 2020.09 |
