@@ -8,11 +8,11 @@ android.os.Build.VERSION_CODES
 
 | VersionCodeName                             | API Level   | Name                                                                                | Time    |
 | :-                                          | :-:         | :-                                                                                  | :-:     |
-| Build.VERSION_CODES.TIRAMISU                | Tiramisu    | [13.0(Tiramisu)](https://developer.android.com/about/versions/13)                   | TBD     |
-| Build.VERSION_CODES.S_V2                    | 32          | [12L](https://developer.android.com/about/versions/12/12L)                          | TBD     |
-| Build.VERSION_CODES.S                       | 31          | [12.0(S)](https://developer.android.com/about/versions/12)                          | 2021.10 |
-| Build.VERSION_CODES.R                       | 30          | [11.0(R)](https://developer.android.com/about/versions/11)                          | 2020.09 |
-| Build.VERSION_CODES.Q                       | 29          | [10.0(Q)](https://developer.android.com/about/versions/10)                          | 2019.09 |
+| Build.VERSION_CODES.TIRAMISU                | 33          | [13.0(Tiramisu)$^{Beta}$](https://developer.android.com/about/versions/13)          | TBD     |
+| Build.VERSION_CODES.S_V2                    | 32          | [12L(Snow Cone)](https://developer.android.com/about/versions/12/12L)               | 2022.03 |
+| Build.VERSION_CODES.S                       | 31          | [12.0(Snow Cone)](https://developer.android.com/about/versions/12)                  | 2021.10 |
+| Build.VERSION_CODES.R                       | 30          | [11.0(Red Velvet Cake)](https://developer.android.com/about/versions/11)            | 2020.09 |
+| Build.VERSION_CODES.Q                       | 29          | [10.0(Quince Tart)](https://developer.android.com/about/versions/10)                | 2019.09 |
 | Build.VERSION_CODES.P                       | 28          | [9.0(Pie)](https://developer.android.com/about/versions/pie)                        | 2018.08 |
 | Build.VERSION_CODES.O_MR1                   | 27          | [8.1(Oreo)](https://developer.android.com/about/versions/oreo/android-8.1)          | 2017.12 |
 | Build.VERSION_CODES.O                       | 26          | [8.0(Oreo)](https://developer.android.com/about/versions/oreo)                      | 2017.08 |
@@ -39,7 +39,7 @@ android.os.Build.VERSION_CODES
 | Build.VERSION_CODES.ECLAIR                  | 5           | 2.0(Eclair)                                                                         | 2009.10 |
 | Build.VERSION_CODES.DONUT                   | 4           | 1.6(Donut)                                                                          | 2009.09 |
 | Build.VERSION_CODES.CUPCAKE                 | 3           | 1.5(Cupcake)                                                                        | 2009.04 |
-| Build.VERSION_CODES.BASE_1_1                | 2           | 1.1                                                                                 | 2009.02 |
+| Build.VERSION_CODES.BASE_1_1                | 2           | 1.1(Petit Four)                                                                     | 2009.02 |
 | Build.VERSION_CODES.BASE                    | 1           | 1.0                                                                                 | 2008.09 |
 
 ## Details
