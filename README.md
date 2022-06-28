@@ -1,5 +1,7 @@
 # AndroidVersionInfos
 
+![Alt](https://repobeats.axiom.co/api/embed/21448927033d4b86eed224a5207d71eb6b99a66b.svg "Repobeats analytics image")
+
 Some informations of android versions.
 
 ## Summary
