@@ -1,10 +1,10 @@
 # AndroidVersionInfos
 
-Some informations of android versions.
+> Some informations of android versions.
 
 ## Summary
 
-android.os.Build.VERSION_CODES
+> android.os.Build.VERSION_CODES
 
 | VersionCodeName                             | API Level   | Name                                                                                | Time    |
 | :-                                          | :-:         | :-                                                                                  | :-:     |
@@ -44,7 +44,52 @@ android.os.Build.VERSION_CODES
 
 ## Details
 
-You can see more version history informations [here](https://en.wikipedia.org/wiki/Android_version_history), and more develop informations [here](https://developer.android.com/about/versions).
+>  You can see more version history informations [here](https://en.wikipedia.org/wiki/Android_version_history), and more develop informations [here](https://developer.android.com/about/versions)
+
+
+
+## JDK
+
+> JDK Versions
+
+| Android Version | API Level | JDK Version |
+| :-------------: | :-------: | :---------: |
+|   Android 13    |    33     |      -      |
+|   Android 12    |   31-32   |      -      |
+|   Android 11    |    30     |     1.8     |
+|   Android 10    |    29     |     1.8     |
+|    Android 9    |    28     |     1.8     |
+|    Android 8    |   26-27   |     1.8     |
+|    Android 7    |   24-25   |     1.8     |
+|    Android 6    |    23     |     1.7     |
+|    Android 5    |   21-22   |     1.7     |
+|    Android 4    |   14-19   |     1.6     |
+|    Android 3    |   11-13   |     1.6     |
+|    Android 2    |   5-10    |     1.6     |
+|    Android 1    |    1-4    |     1.6     |
+
+
+
+## ProGuard
+
+> ProGuard versions
+
+| ProGuard Version | JDK Version | Kotlin Version |
+| :--------------: | :---------: | :------------: |
+|       7.3        |     19      |      1.7       |
+|       7.2        |     17      |      1.6       |
+|       7.1        |     16      |      1.4       |
+|       7.0        |     14      |      1.4       |
+|       6.1        |     12      |       -        |
+|       6.0        |     10      |       -        |
+|       5.0        |      8      |       -        |
+
+
+
+## See also
+
+> - [Android API Levels](https://apilevels.com/)
+> * [Codenames, Tags, and Build Numbers](https://source.android.com/setup/start/build-numbers)
 
 ---
 
