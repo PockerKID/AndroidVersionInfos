@@ -1,7 +1,5 @@
 # AndroidVersionInfos
 
-![Alt](https://repobeats.axiom.co/api/embed/21448927033d4b86eed224a5207d71eb6b99a66b.svg "Repobeats analytics image")
-
 Some informations of android versions.
 
 ## Summary
@@ -47,3 +45,8 @@ android.os.Build.VERSION_CODES
 ## Details
 
 You can see more version history informations [here](https://en.wikipedia.org/wiki/Android_version_history), and more develop informations [here](https://developer.android.com/about/versions).
+
+---
+
+![Alt](https://repobeats.axiom.co/api/embed/21448927033d4b86eed224a5207d71eb6b99a66b.svg "Repobeats analytics image")
+
