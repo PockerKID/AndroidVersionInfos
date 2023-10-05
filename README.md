@@ -55,7 +55,7 @@
 
 | Android Version | API Level | JDK Version |
 | :-------------: | :-------: | :---------: |
-|   Android 14<sup>Beta</sup>    |    34     |     17      |
+|   Android 14    |    34     |     17      |
 |   Android 13    |    33     |     11      |
 |   Android 12    |   31-32   |      8      |
 |   Android 11    |    30     |      8      |
