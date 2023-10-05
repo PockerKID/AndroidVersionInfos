@@ -8,7 +8,7 @@
 
 | VersionCodeName                            | API Level | Name                                                         |  Time   |
 | :----------------------------------------- | :-------: | :----------------------------------------------------------- | :-----: |
-| Build.VERSION_CODES.UPSIDE_DOWN_CAKE       |    34     | [14.0(Upside Down Cake<sup>Beta</sup>)](https://developer.android.com/about/versions/14) |   TBD   |
+| Build.VERSION_CODES.UPSIDE_DOWN_CAKE       |    34     | [14.0(Upside Down Cake)](https://developer.android.com/about/versions/14) | 2023.10 |
 | Build.VERSION_CODES.TIRAMISU               |    33     | [13.0(Tiramisu)](https://developer.android.com/about/versions/13) | 2022.08 |
 | Build.VERSION_CODES.S_V2                   |    32     | [12L(Snow Cone)](https://developer.android.com/about/versions/12/12L) | 2022.03 |
 | Build.VERSION_CODES.S                      |    31     | [12.0(Snow Cone)](https://developer.android.com/about/versions/12) | 2021.10 |
