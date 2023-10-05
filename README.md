@@ -95,5 +95,5 @@
 
 ---
 
-![Alt](https://repobeats.axiom.co/api/embed/21448927033d4b86eed224a5207d71eb6b99a66b.svg "Repobeats analytics image")
+![Alt](https://repobeats.axiom.co/api/embed/c1fd3a2235be15527fdd4cc2a60608dc66db4022.svg "Repobeats analytics image")
 
