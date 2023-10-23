@@ -51,24 +51,25 @@
 
 ## JDK
 
-> JDK Versions
+> JDK Versions. See also [Supporting Older Versions  | Android Open Source Project](https://source.android.com/docs/setup/start/older-versions?hl=en#jdk)
 
-| Android Version | API Level | JDK Version |
-| :-------------: | :-------: | :---------: |
-|   Android 14    |    34     |     17      |
-|   Android 13    |    33     |     11      |
-|   Android 12    |   31-32   |      8      |
-|   Android 11    |    30     |      8      |
-|   Android 10    |    29     |      8      |
-|    Android 9    |    28     |      8      |
-|    Android 8    |   26-27   |      8      |
-|    Android 7    |   24-25   |      8      |
-|    Android 6    |    23     |      7      |
-|    Android 5    |   21-22   |      7      |
-|    Android 4    |   14-19   |      6      |
-|    Android 3    |   11-13   |      6      |
-|    Android 2    |   5-10    |      6      |
-|    Android 1    |    1-4    |      6      |
+| Android Version | API Level |                         JDK Version                          |
+| :-------------: | :-------: | :----------------------------------------------------------: |
+|   Android 14    |    34     | [17](https://developer.android.com/about/versions/14/features#core-libraries) |
+|   Android 13    |    33     | [11](https://developer.android.com/about/versions/13/features#core-libraries) |
+|   Android 12    |   31-32   |                              8                               |
+|   Android 11    |    30     |                              8                               |
+|   Android 10    |    29     |                              8                               |
+|    Android 9    |    28     |                              8                               |
+|    Android 8    |   26-27   |                              8                               |
+|    Android 7    |   24-25   |                              8                               |
+|    Android 6    |    23     |                              7                               |
+|    Android 5    |   21-22   |                              7                               |
+|    Android 4    |   14-20   |                              6                               |
+|    Android 3    |   11-13   |                              6                               |
+|    Android 2    |   9-10    |                              6                               |
+|    Android 2    |    5-8    |                              5                               |
+|    Android 1    |    1-4    |                              5                               |
 
 
 
