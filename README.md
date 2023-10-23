@@ -69,7 +69,7 @@
 |    Android 3    |   11-13   |                              6                               |
 |    Android 2    |   9-10    |                              6                               |
 |    Android 2    |    5-8    |                              5                               |
-|    Android 1    |    1-4    |                              5                               |
+|    Android 1    |    3-4    |                              5                               |
 
 
 
