@@ -122,6 +122,14 @@
 
 
 
+## Compose to Kotlin Compatibility Map
+
+> [Compose Compiler & Kotlin versions](https://developer.android.com/jetpack/androidx/releases/compose-kotlin)
+>
+> [Pre-release Kotlin Compatibility](https://androidx.dev/storage/compose-compiler/repository)
+
+
+
 ## ProGuard
 
 > ProGuard versions. See [ProGuard release notes](https://www.guardsquare.com/manual/releasenotes)
