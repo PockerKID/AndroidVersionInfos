@@ -8,6 +8,7 @@
 
 | VersionCodeName                            | API Level | Name                                                         |  Time   |
 | :----------------------------------------- | :-------: | :----------------------------------------------------------- | :-----: |
+| Build.VERSION_CODES.VANILLA_ICE_CREAM      |    35     | [15.0(VanillaIceCream<sup>Dev</sup>)](https://developer.android.com/about/versions/15) |   TBD   |
 | Build.VERSION_CODES.UPSIDE_DOWN_CAKE       |    34     | [14.0(Upside Down Cake)](https://developer.android.com/about/versions/14) | 2023.10 |
 | Build.VERSION_CODES.TIRAMISU               |    33     | [13.0(Tiramisu)](https://developer.android.com/about/versions/13) | 2022.08 |
 | Build.VERSION_CODES.S_V2                   |    32     | [12L(Snow Cone)](https://developer.android.com/about/versions/12/12L) | 2022.03 |
