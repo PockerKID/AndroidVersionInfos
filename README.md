@@ -52,7 +52,13 @@
 
 ## JDK
 
-> JDK Versions. See also [Supporting Older Versions  | Android Open Source Project](https://source.android.com/docs/setup/start/older-versions?hl=en#jdk)
+> JDK Versions. See also:
+>
+>  [Supporting Older Versions  | Android Open Source Project](https://source.android.com/docs/setup/start/older-versions?hl=en#jdk)
+>
+> [Java versions in Android builds  | Android Studio  | Android Developers](https://developer.android.com/build/jdks)
+>
+> [Which Java APIs can I use in my Java or Kotlin source code?](https://developer.android.com/build/jdks#compileSdk)
 
 | Android Version | API Level |                         JDK Version                          |
 | :-------------: | :-------: | :----------------------------------------------------------: |
@@ -115,7 +121,7 @@
 
 |  KGP version  | Gradle versions | AGP versions |
 | :-----------: | :-------------: | :----------: |
-|    1.9.20     |   6.8.3–8.1.1   | 4.2.2–7.4.0  |
+| 1.9.20–1.9.23 |   6.8.3–8.1.1   | 4.2.2–8.1.0  |
 | 1.9.0–1.9.10  |   6.8.3–7.6.0   | 4.2.2–7.4.0  |
 | 1.8.20–1.8.22 |   6.8.3–7.6.0   | 4.1.3–7.4.0  |
 | 1.8.0–1.8.11  |   6.8.3–7.3.3   | 4.1.3–7.2.1  |
