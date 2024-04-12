@@ -62,6 +62,7 @@
 
 | Android Version | API Level |                         JDK Version                          |
 | :-------------: | :-------: | :----------------------------------------------------------: |
+|   Android 15    |    35     | [17](https://developer.android.com/about/versions/15/features#core-libraries) |
 |   Android 14    |    34     | [17](https://developer.android.com/about/versions/14/features#core-libraries) |
 |   Android 13    |    33     | [11](https://developer.android.com/about/versions/13/features#core-libraries) |
 |   Android 12    |   31-32   |                              8                               |
