@@ -84,35 +84,61 @@
 ## AGP
 
 > [Android Gradle plugin](https://developer.android.com/build/releases/gradle-plugin)
+>
+> [Past Android Gradle plugin releases](https://developer.android.com/build/releases/past-releases)
 
-|     AGP version     | Minimum required Gradle version |
-| :-----------------: | :-----------------------------: |
-| 8.4<sup>Alpha</sup> |            8.6-rc-1             |
-|         8.3         |               8.4               |
-|         8.2         |               8.2               |
-|         8.1         |               8.0               |
-|         8.0         |               8.0               |
-|         7.4         |               7.5               |
-|         7.3         |               7.4               |
-|         7.2         |              7.3.3              |
-|         7.1         |               7.2               |
-|         7.0         |               7.0               |
-|       4.2.0+        |              6.7.1              |
-|       4.1.0+        |              6.5+               |
-|       4.0.0+        |             6.1.1+              |
-|    3.6.0 - 3.6.4    |             5.6.4+              |
-|    3.5.0 - 3.5.4    |             5.4.1+              |
-|    3.4.0 - 3.4.3    |             5.1.1+              |
-|    3.3.0 - 3.3.3    |             4.10.1+             |
-|    3.2.0 - 3.2.1    |              4.6+               |
-|       3.1.0+        |              4.4+               |
-|       3.0.0+        |              4.1+               |
-|       2.3.0+        |              3.3+               |
-|    2.1.3 - 2.2.3    |          2.14.1 - 3.5           |
-|    2.0.0 - 2.1.2    |           2.10 - 2.13           |
-|        1.5.0        |          2.2.1 - 2.13           |
-|    1.2.0 - 1.3.1    |           2.2.1 - 2.9           |
-|    1.0.0 - 1.1.3    |           2.2.1 - 2.3           |
+|  AGP version  | Minimum required Gradle version |
+| :-----------: | :-----------------------------: |
+|      8.4      |               8.6               |
+|      8.3      |               8.4               |
+|      8.2      |               8.2               |
+|      8.1      |               8.0               |
+|      8.0      |               8.0               |
+|      7.4      |               7.5               |
+|      7.3      |               7.4               |
+|      7.2      |              7.3.3              |
+|      7.1      |               7.2               |
+|      7.0      |               7.0               |
+|    4.2.0+     |              6.7.1              |
+|    4.1.0+     |              6.5+               |
+|    4.0.0+     |             6.1.1+              |
+| 3.6.0 - 3.6.4 |             5.6.4+              |
+| 3.5.0 - 3.5.4 |             5.4.1+              |
+| 3.4.0 - 3.4.3 |             5.1.1+              |
+| 3.3.0 - 3.3.3 |             4.10.1+             |
+| 3.2.0 - 3.2.1 |              4.6+               |
+|    3.1.0+     |              4.4+               |
+|    3.0.0+     |              4.1+               |
+|    2.3.0+     |              3.3+               |
+| 2.1.3 - 2.2.3 |          2.14.1 - 3.5           |
+| 2.0.0 - 2.1.2 |           2.10 - 2.13           |
+|     1.5.0     |          2.2.1 - 2.13           |
+| 1.2.0 - 1.3.1 |           2.2.1 - 2.9           |
+| 1.0.0 - 1.1.3 |           2.2.1 - 2.3           |
+
+
+
+## Android Studio & AGP
+
+> [Android Studio release notes](https://developer.android.com/studio/releases)
+>
+> [Past Android Studio releases](https://developer.android.com/studio/releases/past-releases)
+>
+> [Android Gradle plugin and Android Studio compatibility](https://developer.android.com/studio/releases#android_gradle_plugin_and_android_studio_compatibility)
+
+|                    Android Studio version                    | Required AGP version | Minimum AGP version |        API level        |
+| :----------------------------------------------------------: | :------------------: | :-----------------: | :---------------------: |
+| [Koala \| 2024.1.1](https://developer.android.com/studio/preview/features#2024.1.1) |       3.2-8.5        |                     |                         |
+| [Jellyfish \| 2023.3.1](https://developer.android.com/studio/releases) |       3.2-8.4        |         8.4         | VanillaIceCream preview |
+| [Iguana \| 2023.2.1](https://developer.android.com/studio/releases/past-releases/as-iguana-release-notes) |       3.2-8.3        |                     |                         |
+| [Hedgehog \| 2023.1.1](https://developer.android.com/studio/releases/past-releases/as-hedgehog-release-notes) |       3.2-8.2        |        8.1.1        |           34            |
+| [Giraffe \| 2022.3.1](https://developer.android.com/studio/releases/past-releases/as-giraffe-release-notes) |       3.2-8.1        |                     |                         |
+| [Flamingo \| 2022.2.1](https://developer.android.com/studio/releases/past-releases/as-flamingo-release-notes) |       3.2-8.0        |         7.2         |           33            |
+| [Electric Eel \| 2022.1.1](https://developer.android.com/studio/releases/past-releases/as-electric-eel-release-notes) |       3.2-7.4        |                     |                         |
+| [Dolphin \| 2021.3.1](https://developer.android.com/studio/releases/past-releases/as-dolphin-release-notes) |       3.2-7.3        |                     |                         |
+| [Chipmunk \| 2021.2.1](https://developer.android.com/studio/releases/past-releases/as-chipmunk-release-notes) |       3.2-7.2        |                     |                         |
+| [Bumblebee \| 2021.1.1](https://developer.android.com/studio/releases/past-releases/as-bumblebee-release-notes) |       3.2-7.1        |                     |                         |
+| [Arctic Fox \| 2020.3.1](https://developer.android.com/studio/releases/past-releases/as-arctic-fox-release-notes) |       3.1-7.0        |                     |                         |
 
 
 
