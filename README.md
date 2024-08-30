@@ -129,8 +129,9 @@
 
 |                    Android Studio version                    | Required AGP version | Minimum AGP version |        API level        |
 | :----------------------------------------------------------: | :------------------: | :-----------------: | :---------------------: |
-| [Koala \| 2024.1.1](https://developer.android.com/studio/preview/features#2024.1.1) |       3.2-8.5        |                     |                         |
-| [Jellyfish \| 2023.3.1](https://developer.android.com/studio/releases) |       3.2-8.4        |         8.4         | VanillaIceCream preview |
+| [Koala Feature Drop \| 2024.1.2](https://developer.android.com/studio/releases) |       3.2-8.6        |                     |                         |
+| [Koala \| 2024.1.1](https://developer.android.com/studio/releases/past-releases/as-koala-release-notes) |       3.2-8.5        |                     |                         |
+| [Jellyfish \| 2023.3.1](https://developer.android.com/studio/releases/past-releases/as-jellyfish-release-notes) |       3.2-8.4        |         8.4         | VanillaIceCream preview |
 | [Iguana \| 2023.2.1](https://developer.android.com/studio/releases/past-releases/as-iguana-release-notes) |       3.2-8.3        |                     |                         |
 | [Hedgehog \| 2023.1.1](https://developer.android.com/studio/releases/past-releases/as-hedgehog-release-notes) |       3.2-8.2        |        8.1.1        |           34            |
 | [Giraffe \| 2022.3.1](https://developer.android.com/studio/releases/past-releases/as-giraffe-release-notes) |       3.2-8.1        |                     |                         |
@@ -149,6 +150,7 @@
 
 |  KGP version  | Gradle versions | AGP versions |
 | :-----------: | :-------------: | :----------: |
+|    2.0.20     |   6.8.3–8.8*    |  7.1.3–8.5   |
 |     2.0.0     |    6.8.3–8.5    | 7.1.3–8.3.1  |
 | 1.9.20–1.9.24 |   6.8.3–8.1.1   | 4.2.2–8.1.0  |
 | 1.9.0–1.9.10  |   6.8.3–7.6.0   | 4.2.2–7.4.0  |
