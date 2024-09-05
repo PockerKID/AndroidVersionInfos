@@ -8,7 +8,7 @@
 
 | VersionCodeName                                              | API Level | Name                                                         |  Time   |
 | :----------------------------------------------------------- | :-------: | :----------------------------------------------------------- | :-----: |
-| Build.VERSION_CODES.[VANILLA_ICE_CREAM](https://cs.android.com/android/platform/superproject/main/+/main:frameworks/base/core/java/android/os/Build.java;drc=2078bffca5927b7f65e1b8005b919b37848e2b59;bpv=1;bpt=1;l=1232?q=Build.VERSION_CODES&gsn=VANILLA_ICE_CREAM&gs=KYTHE%3A%2F%2Fkythe%3A%2F%2Fandroid.googlesource.com%2Fplatform%2Fsuperproject%2Fmain%2F%2Fmain%3Flang%3Djava%3Fpath%3Dandroid.os.Build.VERSION_CODES%23af0ec8f8a22cef7caede5c4467f98a317d0d4ed94f7db79be8d2f7bfaf2379c1) |    35     | [15.0(Vanilla Ice Cream<sup>Beta</sup>)](https://developer.android.com/about/versions/15) |   TBD   |
+| Build.VERSION_CODES.[VANILLA_ICE_CREAM](https://cs.android.com/android/platform/superproject/main/+/main:frameworks/base/core/java/android/os/Build.java;drc=2078bffca5927b7f65e1b8005b919b37848e2b59;bpv=1;bpt=1;l=1232?q=Build.VERSION_CODES&gsn=VANILLA_ICE_CREAM&gs=KYTHE%3A%2F%2Fkythe%3A%2F%2Fandroid.googlesource.com%2Fplatform%2Fsuperproject%2Fmain%2F%2Fmain%3Flang%3Djava%3Fpath%3Dandroid.os.Build.VERSION_CODES%23af0ec8f8a22cef7caede5c4467f98a317d0d4ed94f7db79be8d2f7bfaf2379c1) |    35     | [15.0(Vanilla Ice Cream)](https://developer.android.com/about/versions/15) | 2024.09 |
 | Build.VERSION_CODES.UPSIDE_DOWN_CAKE                         |    34     | [14.0(Upside Down Cake)](https://developer.android.com/about/versions/14) | 2023.10 |
 | Build.VERSION_CODES.TIRAMISU                                 |    33     | [13.0(Tiramisu)](https://developer.android.com/about/versions/13) | 2022.08 |
 | Build.VERSION_CODES.S_V2                                     |    32     | [12L(Snow Cone)](https://developer.android.com/about/versions/12/12L) | 2022.03 |
@@ -129,6 +129,7 @@
 
 |                    Android Studio version                    | Required AGP version | Minimum AGP version |        API level        |
 | :----------------------------------------------------------: | :------------------: | :-----------------: | :---------------------: |
+| [Ladybug \| 2024.2.1<sup>Preview</sup>](https://developer.android.com/studio/preview/features#2024.2.1) |       3.2-8.7        |                     |                         |
 | [Koala Feature Drop \| 2024.1.2](https://developer.android.com/studio/releases) |       3.2-8.6        |                     |                         |
 | [Koala \| 2024.1.1](https://developer.android.com/studio/releases/past-releases/as-koala-release-notes) |       3.2-8.5        |                     |                         |
 | [Jellyfish \| 2023.3.1](https://developer.android.com/studio/releases/past-releases/as-jellyfish-release-notes) |       3.2-8.4        |         8.4         | VanillaIceCream preview |
@@ -152,7 +153,7 @@
 | :-----------: | :-------------: | :----------: |
 |    2.0.20     |   6.8.3–8.8*    |  7.1.3–8.5   |
 |     2.0.0     |    6.8.3–8.5    | 7.1.3–8.3.1  |
-| 1.9.20–1.9.24 |   6.8.3–8.1.1   | 4.2.2–8.1.0  |
+| 1.9.20–1.9.25 |   6.8.3–8.1.1   | 4.2.2–8.1.0  |
 | 1.9.0–1.9.10  |   6.8.3–7.6.0   | 4.2.2–7.4.0  |
 | 1.8.20–1.8.22 |   6.8.3–7.6.0   | 4.1.3–7.4.0  |
 | 1.8.0–1.8.11  |   6.8.3–7.3.3   | 4.1.3–7.2.1  |
