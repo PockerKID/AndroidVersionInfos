@@ -5,6 +5,8 @@
 ## Summary
 
 > [android.os.Build.VERSION_CODES](https://cs.android.com/android/platform/superproject/main/+/main:frameworks/base/core/java/android/os/Build.java?q=symbol%3A%5Cbandroid.os.Build.VERSION_CODES%5Cb%20case%3Ayes)
+>
+> See also [ApiLevels](https://developer.android.com/guide/topics/manifest/uses-sdk-element#ApiLevels)
 
 | VersionCodeName                                              | API Level | Name                                                         |  Time   |
 | :----------------------------------------------------------- | :-------: | :----------------------------------------------------------- | :-----: |
