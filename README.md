@@ -93,6 +93,7 @@
 
 |  AGP version  | Minimum required Gradle version |
 | :-----------: | :-----------------------------: |
+|      8.8      |               8.0               |
 |      8.7      |               8.9               |
 |      8.6      |               8.7               |
 |      8.5      |               8.7               |
@@ -135,8 +136,9 @@
 
 |                    Android Studio version                    | Required AGP version | Minimum AGP version |        API level        |
 | :----------------------------------------------------------: | :------------------: | :-----------------: | :---------------------: |
-| [Ladybug \|2024.2.2<sup>Preview</sup>](https://developer.android.com/studio/preview/features#2024.2.2) |                      |                     |                         |
-| [Ladybug \| 2024.2.1](https://developer.android.com/studio/releases) |       3.2-8.7        |        8.6.0        |           35            |
+| [Meerkat \|2024.3.1<sup>Preview</sup>](https://developer.android.com/studio/preview/features#2024.3.1) |                      |        8.9.0        |     Baklava Preview     |
+| [Ladybug \|2024.2.2](https://developer.android.com/studio/releases) |       3.2-8.8        |                     |                         |
+| [Ladybug \| 2024.2.1](https://developer.android.com/studio/releases/past-releases/as-ladybug-release-notes) |       3.2-8.7        |        8.6.0        |           35            |
 | [Koala Feature Drop \| 2024.1.2](https://developer.android.com/studio/releases/past-releases/as-koala-feature-drop-release-notes) |       3.2-8.6        |                     |           35            |
 | [Koala \| 2024.1.1](https://developer.android.com/studio/releases/past-releases/as-koala-release-notes) |       3.2-8.5        |                     |                         |
 | [Jellyfish \| 2023.3.1](https://developer.android.com/studio/releases/past-releases/as-jellyfish-release-notes) |       3.2-8.4        |         8.4         | VanillaIceCream preview |
