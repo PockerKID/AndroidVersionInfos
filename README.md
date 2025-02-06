@@ -10,7 +10,7 @@
 
 | VersionCodeName                                              | API Level | Name                                                         |  Time   |
 | :----------------------------------------------------------- | :-------: | :----------------------------------------------------------- | :-----: |
-| Build.VERSION_CODES.[Baklava](https://cs.android.com/android/platform/superproject/main/+/main:external/robolectric/annotations/src/main/java/org/robolectric/versioning/AndroidVersions.java;drc=36303b838229bcd21b0d72278dd6879497bc285b;bpv=1;bpt=1;l=744?q=Baklava&ss=android%2Fplatform%2Fsuperproject%2Fmain) |    36     | [16.0(Baklava<sup>Dev</sup>)](https://developer.android.com/about/versions/16) |   TBD   |
+| Build.VERSION_CODES.[Baklava](https://cs.android.com/android/platform/superproject/main/+/main:external/robolectric/annotations/src/main/java/org/robolectric/versioning/AndroidVersions.java;drc=36303b838229bcd21b0d72278dd6879497bc285b;bpv=1;bpt=1;l=744?q=Baklava&ss=android%2Fplatform%2Fsuperproject%2Fmain) |    36     | [16.0(Baklava<sup>Beta</sup>)](https://developer.android.com/about/versions/16) |   TBD   |
 | Build.VERSION_CODES.VANILLA_ICE_CREAM                        |    35     | [15.0(Vanilla Ice Cream)](https://developer.android.com/about/versions/15) | 2024.09 |
 | Build.VERSION_CODES.UPSIDE_DOWN_CAKE                         |    34     | [14.0(Upside Down Cake)](https://developer.android.com/about/versions/14) | 2023.10 |
 | Build.VERSION_CODES.TIRAMISU                                 |    33     | [13.0(Tiramisu)](https://developer.android.com/about/versions/13) | 2022.08 |
@@ -136,7 +136,8 @@
 
 |                    Android Studio version                    | Required AGP version | Minimum AGP version |        API level        |
 | :----------------------------------------------------------: | :------------------: | :-----------------: | :---------------------: |
-| [Meerkat \|2024.3.1<sup>Preview</sup>](https://developer.android.com/studio/preview/features#2024.3.1) |                      |        8.9.0        |     Baklava Preview     |
+| [Meerkat \|2024.3.2<sup>Canary</sup>](https://developer.android.com/studio/preview/features#2024.3.2) |                      |                     |                         |
+| [Meerkat \|2024.3.1<sup>Beta</sup>](https://developer.android.com/studio/preview/features#2024.3.1) |                      |        8.9.0        |     Baklava Preview     |
 | [Ladybug \|2024.2.2](https://developer.android.com/studio/releases) |       3.2-8.8        |                     |                         |
 | [Ladybug \| 2024.2.1](https://developer.android.com/studio/releases/past-releases/as-ladybug-release-notes) |       3.2-8.7        |        8.6.0        |           35            |
 | [Koala Feature Drop \| 2024.1.2](https://developer.android.com/studio/releases/past-releases/as-koala-feature-drop-release-notes) |       3.2-8.6        |                     |           35            |
