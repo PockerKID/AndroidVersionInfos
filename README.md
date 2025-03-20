@@ -93,6 +93,7 @@
 
 |  AGP version  | Minimum required Gradle version |
 | :-----------: | :-----------------------------: |
+|      8.9      |             8.11.1              |
 |      8.8      |             8.10.2              |
 |      8.7      |               8.9               |
 |      8.6      |               8.7               |
@@ -136,7 +137,8 @@
 
 |                    Android Studio version                    | Required AGP version | Minimum AGP version |        API level        |
 | :----------------------------------------------------------: | :------------------: | :-----------------: | :---------------------: |
-| [Meerkat \|2024.3.2<sup>Canary</sup>](https://developer.android.com/studio/preview/features#2024.3.2) |                      |                     |                         |
+| [Narwhal \|2025.1.1<sup>Canary</sup>](https://developer.android.com/studio/preview/features#2025.1.1) |                      |                     |                         |
+| [Meerkat \|2024.3.2<sup>Beta</sup>](https://developer.android.com/studio/preview/features#2024.3.2) |                      |                     |                         |
 | [Meerkat \|2024.3.1](https://developer.android.com/studio/releases) |       3.2-8.9        |        8.9.0        |     Baklava Preview     |
 | [Ladybug \|2024.2.2](https://developer.android.com/studio/releases/past-releases/as-ladybug-feature-drop-release-notes) |       3.2-8.8        |                     |                         |
 | [Ladybug \| 2024.2.1](https://developer.android.com/studio/releases/past-releases/as-ladybug-release-notes) |       3.2-8.7        |        8.6.0        |           35            |
@@ -157,12 +159,15 @@
 
 ## Kotlin
 
+> [Kotlin Docs](https://kotlinlang.org/docs/home.html) | [Kotlin Release](https://github.com/JetBrains/kotlin/releases)
+>
 > [Kotlin Gradle plugin](https://kotlinlang.org/docs/gradle-configure-project.html#apply-the-plugin)
 
 |  KGP version  | Gradle versions | AGP versions |
 | :-----------: | :-------------: | :----------: |
-|     2.1.0     |   7.6.3–8.10*   | 7.3.1–8.7.2  |
-|    2.0.20     |   6.8.3–8.8*    |  7.1.3–8.5   |
+|    2.1.20     |   7.6.3–8.11    | 7.4.2–8.7.2  |
+| 2.1.0–2.1.10  |   7.6.3–8.10*   | 7.3.1–8.7.2  |
+| 2.0.20–2.0.21 |   6.8.3–8.8*    |  7.1.3–8.5   |
 |     2.0.0     |    6.8.3–8.5    | 7.1.3–8.3.1  |
 | 1.9.20–1.9.25 |   6.8.3–8.1.1   | 4.2.2–8.1.0  |
 | 1.9.0–1.9.10  |   6.8.3–7.6.0   | 4.2.2–7.4.0  |
