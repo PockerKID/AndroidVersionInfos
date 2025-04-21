@@ -91,39 +91,39 @@
 >
 > [Past Android Gradle plugin releases](https://developer.android.com/build/releases/past-releases)
 
-|  AGP version  | Minimum required Gradle version |
-| :-----------: | :-----------------------------: |
-|      8.9      |             8.11.1              |
-|      8.8      |             8.10.2              |
-|      8.7      |               8.9               |
-|      8.6      |               8.7               |
-|      8.5      |               8.7               |
-|      8.4      |               8.6               |
-|      8.3      |               8.4               |
-|      8.2      |               8.2               |
-|      8.1      |               8.0               |
-|      8.0      |               8.0               |
-|      7.4      |               7.5               |
-|      7.3      |               7.4               |
-|      7.2      |              7.3.3              |
-|      7.1      |               7.2               |
-|      7.0      |               7.0               |
-|    4.2.0+     |              6.7.1              |
-|    4.1.0+     |              6.5+               |
-|    4.0.0+     |             6.1.1+              |
-| 3.6.0 - 3.6.4 |             5.6.4+              |
-| 3.5.0 - 3.5.4 |             5.4.1+              |
-| 3.4.0 - 3.4.3 |             5.1.1+              |
-| 3.3.0 - 3.3.3 |             4.10.1+             |
-| 3.2.0 - 3.2.1 |              4.6+               |
-|    3.1.0+     |              4.4+               |
-|    3.0.0+     |              4.1+               |
-|    2.3.0+     |              3.3+               |
-| 2.1.3 - 2.2.3 |          2.14.1 - 3.5           |
-| 2.0.0 - 2.1.2 |           2.10 - 2.13           |
-|     1.5.0     |          2.2.1 - 2.13           |
-| 1.2.0 - 1.3.1 |           2.2.1 - 2.9           |
-| 1.0.0 - 1.1.3 |           2.2.1 - 2.3           |
+|                         AGP version                          | Minimum required Gradle version | SDK Build Tools |      NDK      | JDK  |
+| :----------------------------------------------------------: | :-----------------------------: | :-------------: | :-----------: | :--: |
+| [8.9](https://developer.android.com/build/releases/gradle-plugin#compatibility) |             8.11.1              |     35.0.0      | 27.0.12077973 |  17  |
+| [8.8](https://developer.android.com/build/releases/past-releases/agp-8-8-0-release-notes) |             8.10.2              |     35.0.0      | 27.0.12077973 |  17  |
+| [8.7](https://developer.android.com/build/releases/past-releases/agp-8-7-0-release-notes) |               8.9               |     34.0.0      | 27.0.12077973 |  17  |
+| [8.6](https://developer.android.com/build/releases/past-releases/agp-8-6-0-release-notes) |               8.7               |     34.0.0      | 26.1.10909125 |  17  |
+| [8.5](https://developer.android.com/build/releases/past-releases/agp-8-5-0-release-notes) |               8.7               |     34.0.0      | 26.1.10909125 |  17  |
+| [8.4](https://developer.android.com/build/releases/past-releases/agp-8-4-0-release-notes) |               8.6               |     34.0.0      | 26.1.10909125 |  17  |
+| [8.3](https://developer.android.com/build/releases/past-releases/agp-8-3-0-release-notes) |               8.4               |     34.0.0      | 25.1.8937393  |  17  |
+| [8.2](https://developer.android.com/build/releases/past-releases/agp-8-2-0-release-notes) |               8.2               |     34.0.0      | 25.1.8937393  |  17  |
+| [8.1](https://developer.android.com/build/releases/past-releases/agp-8-1-0-release-notes) |               8.0               |     33.0.1      | 25.1.8937393  |  17  |
+| [8.0](https://developer.android.com/build/releases/past-releases/agp-8-0-0-release-notes) |               8.0               |     30.0.3      | 25.1.8937393  |  17  |
+| [7.4](https://developer.android.com/build/releases/past-releases/agp-7-4-0-release-notes) |               7.5               |     30.0.3      | 23.1.7779620  |  11  |
+| [7.3](https://developer.android.com/build/releases/past-releases/agp-7-3-0-release-notes) |               7.4               |     30.0.3      | 23.1.7779620  |  11  |
+| [7.2](https://developer.android.com/build/releases/past-releases/agp-7-2-0-release-notes) |              7.3.3              |     30.0.3      | 21.4.7075529  |  11  |
+| [7.1](https://developer.android.com/build/releases/past-releases/agp-7-1-0-release-notes) |               7.2               |     30.0.3      | 21.4.7075529  |  11  |
+| [7.0](https://developer.android.com/build/releases/past-releases/agp-7-0-0-release-notes) |               7.0               |     30.0.3      | 21.4.7075529  |  11  |
+|                            4.2.0+                            |              6.7.1              |     30.0.2      | 21.4.7075529  |      |
+|                            4.1.0+                            |              6.5+               |     29.0.2      | 21.1.6352462  |      |
+|                            4.0.0+                            |             6.1.1+              |     29.0.2      |               |      |
+|                        3.6.0 - 3.6.4                         |             5.6.4+              |                 |               |      |
+|                        3.5.0 - 3.5.4                         |             5.4.1+              |                 |               |      |
+|                        3.4.0 - 3.4.3                         |             5.1.1+              |                 |               |      |
+|                        3.3.0 - 3.3.3                         |             4.10.1+             |                 |               |      |
+|                        3.2.0 - 3.2.1                         |              4.6+               |                 |               |      |
+|                            3.1.0+                            |              4.4+               |                 |               |      |
+|                            3.0.0+                            |              4.1+               |                 |               |      |
+|                            2.3.0+                            |              3.3+               |                 |               |      |
+|                        2.1.3 - 2.2.3                         |          2.14.1 - 3.5           |                 |               |      |
+|                        2.0.0 - 2.1.2                         |           2.10 - 2.13           |                 |               |      |
+|                            1.5.0                             |          2.2.1 - 2.13           |                 |               |      |
+|                        1.2.0 - 1.3.1                         |           2.2.1 - 2.9           |                 |               |      |
+|                        1.0.0 - 1.1.3                         |           2.2.1 - 2.3           |                 |               |      |
 
 
 
