@@ -93,7 +93,8 @@
 
 |                         AGP version                          | Minimum required Gradle version | SDK Build Tools |      NDK      | JDK  |
 | :----------------------------------------------------------: | :-----------------------------: | :-------------: | :-----------: | :--: |
-| [8.9](https://developer.android.com/build/releases/gradle-plugin#compatibility) |             8.11.1              |     35.0.0      | 27.0.12077973 |  17  |
+| [8.10](https://developer.android.com/build/releases/gradle-plugin#compatibility) |             8.11.1              |     35.0.0      | 27.0.12077973 |  17  |
+| [8.9](https://developer.android.com/build/releases/past-releases/agp-8-9-0-release-notes) |             8.11.1              |     35.0.0      | 27.0.12077973 |  17  |
 | [8.8](https://developer.android.com/build/releases/past-releases/agp-8-8-0-release-notes) |             8.10.2              |     35.0.0      | 27.0.12077973 |  17  |
 | [8.7](https://developer.android.com/build/releases/past-releases/agp-8-7-0-release-notes) |               8.9               |     34.0.0      | 27.0.12077973 |  17  |
 | [8.6](https://developer.android.com/build/releases/past-releases/agp-8-6-0-release-notes) |               8.7               |     34.0.0      | 26.1.10909125 |  17  |
@@ -138,9 +139,9 @@
 |                    Android Studio version                    | Required AGP version | Minimum AGP version |        API level        |
 | :----------------------------------------------------------: | :------------------: | :-----------------: | :---------------------: |
 | [Narwhal \|2025.1.1<sup>Canary</sup>](https://developer.android.com/studio/preview/features#2025.1.1) |                      |                     |                         |
-| [Meerkat \|2024.3.2<sup>Beta</sup>](https://developer.android.com/studio/preview/features#2024.3.2) |                      |                     |                         |
-| [Meerkat \|2024.3.1](https://developer.android.com/studio/releases) |       3.2-8.9        |        8.9.0        |     Baklava Preview     |
-| [Ladybug \|2024.2.2](https://developer.android.com/studio/releases/past-releases/as-ladybug-feature-drop-release-notes) |       3.2-8.8        |                     |                         |
+| [Meerkat Feature Drop \|2024.3.2](https://developer.android.com/studio/releases) |       3.2-8.10       |                     |                         |
+| [Meerkat \|2024.3.1](https://developer.android.com/studio/releases/past-releases/as-meerkat-release-notes) |       3.2-8.9        |        8.9.0        |     Baklava Preview     |
+| [Ladybug Feature Drop \|2024.2.2](https://developer.android.com/studio/releases/past-releases/as-ladybug-feature-drop-release-notes) |       3.2-8.8        |                     |                         |
 | [Ladybug \| 2024.2.1](https://developer.android.com/studio/releases/past-releases/as-ladybug-release-notes) |       3.2-8.7        |        8.6.0        |           35            |
 | [Koala Feature Drop \| 2024.1.2](https://developer.android.com/studio/releases/past-releases/as-koala-feature-drop-release-notes) |       3.2-8.6        |                     |           35            |
 | [Koala \| 2024.1.1](https://developer.android.com/studio/releases/past-releases/as-koala-release-notes) |       3.2-8.5        |                     |                         |
