@@ -10,7 +10,7 @@
 
 | VersionCodeName                                              | API Level | Name                                                         |  Time   |
 | :----------------------------------------------------------- | :-------: | :----------------------------------------------------------- | :-----: |
-| Build.VERSION_CODES.[Baklava](https://cs.android.com/android/platform/superproject/main/+/main:external/robolectric/annotations/src/main/java/org/robolectric/versioning/AndroidVersions.java;drc=36303b838229bcd21b0d72278dd6879497bc285b;bpv=1;bpt=1;l=744?q=Baklava&ss=android%2Fplatform%2Fsuperproject%2Fmain) |    36     | [16.0(Baklava<sup>Beta</sup>)](https://developer.android.com/about/versions/16) |   TBD   |
+| Build.VERSION_CODES.[Baklava](https://cs.android.com/android/platform/superproject/main/+/main:external/robolectric/annotations/src/main/java/org/robolectric/versioning/AndroidVersions.java;drc=36303b838229bcd21b0d72278dd6879497bc285b;bpv=1;bpt=1;l=744?q=Baklava&ss=android%2Fplatform%2Fsuperproject%2Fmain) |    36     | [16.0(Baklava)](https://developer.android.com/about/versions/16) | 2025.06 |
 | Build.VERSION_CODES.VANILLA_ICE_CREAM                        |    35     | [15.0(Vanilla Ice Cream)](https://developer.android.com/about/versions/15) | 2024.09 |
 | Build.VERSION_CODES.UPSIDE_DOWN_CAKE                         |    34     | [14.0(Upside Down Cake)](https://developer.android.com/about/versions/14) | 2023.10 |
 | Build.VERSION_CODES.TIRAMISU                                 |    33     | [13.0(Tiramisu)](https://developer.android.com/about/versions/13) | 2022.08 |
