@@ -93,7 +93,7 @@
 
 |                         AGP version                          | Minimum required Gradle version | SDK Build Tools |      NDK      | JDK  |
 | :----------------------------------------------------------: | :-----------------------------: | :-------------: | :-----------: | :--: |
-| [8.12](https://developer.android.com/build/releases/gradle-plugin#compatibility) |              8.13               |     36.0.0      |               |  17  |
+| [8.12](https://developer.android.com/build/releases/gradle-plugin#compatibility) |              8.13               |     35.0.0      | 27.0.12077973 |  17  |
 | [8.11](https://developer.android.com/build/releases/past-releases/agp-8-11-0-release-notes) |              8.13               |     35.0.0      | 27.0.12077973 |  17  |
 | [8.10](https://developer.android.com/build/releases/past-releases/agp-8-10-0-release-notes) |             8.11.1              |     35.0.0      | 27.0.12077973 |  17  |
 | [8.9](https://developer.android.com/build/releases/past-releases/agp-8-9-0-release-notes) |             8.11.1              |     35.0.0      | 27.0.12077973 |  17  |
@@ -190,6 +190,23 @@
 > [Compose Compiler & Kotlin versions](https://developer.android.com/jetpack/androidx/releases/compose-kotlin)
 >
 > [Pre-release Kotlin Compatibility](https://androidx.dev/storage/compose-compiler/repository)
+
+
+
+## [AGP, D8, and R8 versions required for Kotlin versions](https://developer.android.com/build/kotlin-support)
+
+| Kotlin version | Required AGP version | Required D8 and R8 version |
+| :------------: | :------------------: | :------------------------: |
+|      1.3       |         4.1          |           2.1.86           |
+|      1.4       |         7.0          |           3.0.76           |
+|      1.5       |         7.0          |           3.0.77           |
+|      1.6       |         7.1          |           3.1.51           |
+|      1.7       |         7.2          |           3.2.47           |
+|      1.8       |         7.4          |           4.0.48           |
+|      1.9       |         8.0          |           8.0.27           |
+|      2.0       |         8.5          |           8.5.10           |
+|      2.1       |         8.6          |           8.6.17           |
+|      2.2       |         8.10         |          8.10.21           |
 
 
 
