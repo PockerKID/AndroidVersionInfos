@@ -93,6 +93,7 @@
 
 |                         AGP version                          | Minimum required Gradle version | SDK Build Tools |      NDK      | JDK  |
 | :----------------------------------------------------------: | :-----------------------------: | :-------------: | :-----------: | :--: |
+| [9.0](https://developer.android.com/studio/preview/features#android-gradle-plugin) |              9.0.0              |     35.0.0      | 28.2.13676358 |  17  |
 | [8.12](https://developer.android.com/build/releases/gradle-plugin#compatibility) |              8.13               |     35.0.0      | 27.0.12077973 |  17  |
 | [8.11](https://developer.android.com/build/releases/past-releases/agp-8-11-0-release-notes) |              8.13               |     35.0.0      | 27.0.12077973 |  17  |
 | [8.10](https://developer.android.com/build/releases/past-releases/agp-8-10-0-release-notes) |             8.11.1              |     35.0.0      | 27.0.12077973 |  17  |
