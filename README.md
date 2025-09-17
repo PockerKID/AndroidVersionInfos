@@ -93,7 +93,7 @@
 
 |                         AGP version                          | Minimum required Gradle version | SDK Build Tools |      NDK      | JDK  |
 | :----------------------------------------------------------: | :-----------------------------: | :-------------: | :-----------: | :--: |
-| [9.0](https://developer.android.com/studio/preview/features#android-gradle-plugin) |              9.0.0              |     35.0.0      | 28.2.13676358 |  17  |
+| [9.0](https://developer.android.com/build/releases/agp-preview#android-gradle-plugin) |              9.0.0              |     35.0.0      | 28.2.13676358 |  17  |
 | [8.12](https://developer.android.com/build/releases/gradle-plugin#compatibility) |              8.13               |     35.0.0      | 27.0.12077973 |  17  |
 | [8.11](https://developer.android.com/build/releases/past-releases/agp-8-11-0-release-notes) |              8.13               |     35.0.0      | 27.0.12077973 |  17  |
 | [8.10](https://developer.android.com/build/releases/past-releases/agp-8-10-0-release-notes) |             8.11.1              |     35.0.0      | 27.0.12077973 |  17  |
@@ -172,6 +172,7 @@
 
 |  KGP version  | Gradle versions | AGP versions |
 | :-----------: | :-------------: | :----------: |
+|    2.2.20     |   7.6.3–8.14    | 7.3.1–8.11.1 |
 | 2.2.0-2.2.10  |   7.6.3–8.14    | 7.3.1–8.10.0 |
 | 2.1.20-2.1.21 |  7.6.3–8.12.1   | 7.3.1–8.7.2  |
 | 2.1.0–2.1.10  |   7.6.3–8.10*   | 7.3.1–8.7.2  |
@@ -193,6 +194,7 @@
 
 | KGP version  | Gradle versions | AGP versions | XCode |
 | :----------: | :-------------: | :----------: | :---: |
+|    2.2.20    |   7.6.3–8.14    | 7.3.1–8.11.1 | 16.4  |
 | 2.2.0-2.2.10 |   7.6.3–8.14    | 7.3.1–8.10.0 | 16.3  |
 |    2.1.21    |  7.6.3–8.12.1   | 7.3.1–8.7.2  | 16.3  |
 |    2.1.20    |   7.6.3–8.11    | 7.4.2–8.7.2  | 16.0  |
@@ -258,6 +260,7 @@
 
 | JDK Version | Class Major Version | Type |
 | :---------: | :-----------------: | :--: |
+|     27      |         71          |      |
 |     26      |         70          |      |
 |     25      |         69          | LTS  |
 |     24      |         68          |      |
