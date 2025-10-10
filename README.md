@@ -142,12 +142,12 @@
 |                    Android Studio version                    | Required AGP version | Minimum AGP version |        API level        |
 | :----------------------------------------------------------: | :------------------: | :-----------------: | :---------------------: |
 | [Android Studio Otter\| 2025.2.1<sup>Canary</sup>](https://developer.android.com/studio/preview/features#2025.2.1) |       4.0-9.0        |                     |                         |
-| [Narwhal 4 Feature Drop \| 2025.1.4<sup>RC</sup>](https://developer.android.com/studio/preview/features#2025.1.4) |       4.0-8.13       |                     |                         |
-| [Narwhal 3 Feature Drop \| 2025.1.3](https://developer.android.com/studio/releases) |       4.0-8.13       |                     |                         |
+| [Narwhal 4 Feature Drop \| 2025.1.4](https://developer.android.com/studio/releases) |       4.0-8.13       |                     |                         |
+| [Narwhal 3 Feature Drop \| 2025.1.3](https://developer.android.com/studio/releases) |       4.0-8.13       |       8.13.0        |          36.1           |
 | [Narwhal Feature Drop \| 2025.1.2](https://developer.android.com/studio/releases/past-releases/as-narwhal-feature-drop-release-notes) |       4.0-8.12       |                     |                         |
 | [Narwhal \| 2025.1.1](https://developer.android.com/studio/releases/past-releases/as-narwhal-release-notes) |       3.2-8.11       |                     |                         |
 | [Meerkat Feature Drop \| 2024.3.2](https://developer.android.com/studio/releases/past-releases/as-meerkat-feature-drop-release-notes) |       3.2-8.10       |                     |                         |
-| [Meerkat \| 2024.3.1](https://developer.android.com/studio/releases/past-releases/as-meerkat-release-notes) |       3.2-8.9        |        8.9.1        |           36            |
+| [Meerkat \| 2024.3.1](https://developer.android.com/studio/releases/past-releases/as-meerkat-release-notes) |       3.2-8.9        |        8.9.1        |          36.0           |
 | [Ladybug Feature Drop \| 2024.2.2](https://developer.android.com/studio/releases/past-releases/as-ladybug-feature-drop-release-notes) |       3.2-8.8        |                     |                         |
 | [Ladybug \| 2024.2.1](https://developer.android.com/studio/releases/past-releases/as-ladybug-release-notes) |       3.2-8.7        |        8.6.0        |           35            |
 | [Koala Feature Drop \| 2024.1.2](https://developer.android.com/studio/releases/past-releases/as-koala-feature-drop-release-notes) |       3.2-8.6        |                     |           35            |
