@@ -137,11 +137,14 @@
 >
 > [Past Android Studio releases](https://developer.android.com/studio/releases/past-releases)
 >
+> [Android Studio Release Updates](https://androidstudio.googleblog.com/)
+>
 > [Android Gradle plugin and Android Studio compatibility](https://developer.android.com/studio/releases#android_gradle_plugin_and_android_studio_compatibility)
 
 |                    Android Studio version                    | Required AGP version | Minimum AGP version |        API level        |
 | :----------------------------------------------------------: | :------------------: | :-----------------: | :---------------------: |
-| [Android Studio Otter\| 2025.2.1<sup>Canary</sup>](https://developer.android.com/studio/preview/features#2025.2.1) |       4.0-9.0        |                     |                         |
+| [Android Studio Otter 2 Feature Drop\|2025.2.2<sup>Canary</sup>](https://developer.android.com/studio/preview/features#2025.2.2) |       4.0-9.0        |                     |                         |
+| [Android Studio Otter\| 2025.2.1<sup>RC</sup>](https://developer.android.com/studio/preview/features#2025.2.1) |       4.0-9.0        |                     |                         |
 | [Narwhal 4 Feature Drop \| 2025.1.4](https://developer.android.com/studio/releases) |       4.0-8.13       |                     |                         |
 | [Narwhal 3 Feature Drop \| 2025.1.3](https://developer.android.com/studio/releases) |       4.0-8.13       |       8.13.0        |          36.1           |
 | [Narwhal Feature Drop \| 2025.1.2](https://developer.android.com/studio/releases/past-releases/as-narwhal-feature-drop-release-notes) |       4.0-8.12       |                     |                         |
