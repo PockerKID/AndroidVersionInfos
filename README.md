@@ -144,7 +144,7 @@
 
 |                    Android Studio version                    | Required AGP version | Minimum AGP version |        API level        |
 | :----------------------------------------------------------: | :------------------: | :-----------------: | :---------------------: |
-| [Otter 2 Feature Drop\|2025.2.3<sup>Canary</sup>](https://developer.android.com/studio/preview/features#2025.2.3) |       4.0-8.13       |                     |                         |
+| [Otter 2 Feature Drop\|2025.2.3<sup>RC</sup>](https://developer.android.com/studio/preview/features#2025.2.3) |       4.0-8.13       |                     |                         |
 | [Otter 2 Feature Drop\|2025.2.2](https://developer.android.com/studio/releases) |       4.0-8.13       |                     |                         |
 | [Otter\| 2025.2.1](https://developer.android.com/studio/releases/past-releases/as-otter-release-notes) |       4.0-8.13       |                     |                         |
 | [Narwhal 4 Feature Drop \| 2025.1.4](https://developer.android.com/studio/releases/past-releases/as-narwhal-4-feature-drop-release-notes) |       4.0-8.13       |                     |                         |
@@ -178,7 +178,8 @@
 
 |  KGP version  | Gradle versions | AGP versions |
 | :-----------: | :-------------: | :----------: |
-|    2.2.20     |   7.6.3–8.14    | 7.3.1–8.11.1 |
+|     2.3.0     |   7.6.3–9.0.0   | 8.2.2–8.13.0 |
+| 2.2.20–2.2.21 |   7.6.3–8.14    | 7.3.1–8.11.1 |
 | 2.2.0-2.2.10  |   7.6.3–8.14    | 7.3.1–8.10.0 |
 | 2.1.20-2.1.21 |  7.6.3–8.12.1   | 7.3.1–8.7.2  |
 | 2.1.0–2.1.10  |   7.6.3–8.10*   | 7.3.1–8.7.2  |
@@ -200,6 +201,7 @@
 
 | KGP version  | Gradle versions | AGP versions | XCode |
 | :----------: | :-------------: | :----------: | :---: |
+|    2.3.0     |   7.6.3–9.0.0   | 8.2.2–8.13.0 | 26.0  |
 |    2.2.21    |   7.6.3–8.14    | 7.3.1–8.11.1 | 26.0  |
 |    2.2.20    |   7.6.3–8.14    | 7.3.1–8.11.1 | 16.4  |
 | 2.2.0-2.2.10 |   7.6.3–8.14    | 7.3.1–8.10.0 | 16.3  |
@@ -235,6 +237,7 @@
 |      2.0       |         8.5          |           8.5.10           |
 |      2.1       |         8.6          |           8.6.17           |
 |      2.2       |         8.10         |          8.10.21           |
+|      2.3       |        8.13.2        |          8.13.19           |
 
 
 
