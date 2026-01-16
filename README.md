@@ -144,9 +144,9 @@
 
 |                    Android Studio version                    | Required AGP version | Minimum AGP version |        API level        |
 | :----------------------------------------------------------: | :------------------: | :-----------------: | :---------------------: |
-| [Panda \|2025.3.1<sup>Canary</sup>](https://developer.android.com/studio/preview/features#2025.3.1) |       4.0-9.0        |                     |                         |
-| [Otter 3 Feature Drop \|2025.2.3](https://developer.android.com/studio/releases) |       4.0-8.13       |                     |                         |
-| [Otter 2 Feature Drop \|2025.2.2](https://developer.android.com/studio/releases/past-releases/as-otter-2-feature-drop-release-notes) |       4.0-8.13       |                     |                         |
+| [Panda \| 2025.3.1<sup>Canary</sup>](https://developer.android.com/studio/preview/features#2025.3.1) |       4.0-9.0        |                     |                         |
+| [Otter 3 Feature Drop \| 2025.2.3](https://developer.android.com/studio/releases) |       4.0-8.13       |                     |                         |
+| [Otter 2 Feature Drop \| 2025.2.2](https://developer.android.com/studio/releases/past-releases/as-otter-2-feature-drop-release-notes) |       4.0-8.13       |                     |                         |
 | [Otter \| 2025.2.1](https://developer.android.com/studio/releases/past-releases/as-otter-release-notes) |       4.0-8.13       |                     |                         |
 | [Narwhal 4 Feature Drop \| 2025.1.4](https://developer.android.com/studio/releases/past-releases/as-narwhal-4-feature-drop-release-notes) |       4.0-8.13       |                     |                         |
 | [Narwhal 3 Feature Drop \| 2025.1.3](https://developer.android.com/studio/releases) |       4.0-8.13       |       8.13.0        |          36.1           |
