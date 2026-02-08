@@ -93,7 +93,8 @@
 
 |                         AGP version                          | Minimum required Gradle version | SDK Build Tools |      NDK      | JDK  |
 | :----------------------------------------------------------: | :-----------------------------: | :-------------: | :-----------: | :--: |
-| [9.0](https://developer.android.com/build/releases/agp-preview#android-gradle-plugin) |              9.1.0              |     36.0.0      | 28.2.13676358 |  17  |
+| [9.1](https://developer.android.com/build/releases/agp-9-1-0-release-notes) |              9.3.1              |     36.0.0      | 28.2.13676358 |  17  |
+| [9.0](https://developer.android.com/build/releases/agp-9-0-0-release-notes) |              9.1.0              |     36.0.0      | 28.2.13676358 |  17  |
 | [8.13](https://developer.android.com/build/releases/gradle-plugin#compatibility) |              8.13               |     35.0.0      | 27.0.12077973 |  17  |
 | [8.12](https://developer.android.com/build/releases/past-releases/agp-8-12-0-release-notes) |              8.13               |     35.0.0      | 27.0.12077973 |  17  |
 | [8.11](https://developer.android.com/build/releases/past-releases/agp-8-11-0-release-notes) |              8.13               |     35.0.0      | 27.0.12077973 |  17  |
@@ -144,8 +145,9 @@
 
 |                    Android Studio version                    | Required AGP version | Minimum AGP version |        API level        |
 | :----------------------------------------------------------: | :------------------: | :-----------------: | :---------------------: |
-| [Panda \| 2025.3.1<sup>Canary</sup>](https://developer.android.com/studio/preview/features#2025.3.1) |       4.0-9.0        |                     |                         |
-| [Otter 3 Feature Drop \| 2025.2.3](https://developer.android.com/studio/releases) |       4.0-8.13       |                     |                         |
+| [Panda 2 \|2025.3.1<sup>Canary</sup>](https://developer.android.com/studio/preview/features#2025.3.2) |       4.0-9.1        |                     |                         |
+| [Panda 1 \| 2025.3.1<sup>RC</sup>](https://developer.android.com/studio/preview/features#2025.3.1) |       4.0-9.0        |                     |                         |
+| [Otter 3 Feature Drop \| 2025.2.3](https://developer.android.com/studio/releases) |       4.0-9.0        |                     |                         |
 | [Otter 2 Feature Drop \| 2025.2.2](https://developer.android.com/studio/releases/past-releases/as-otter-2-feature-drop-release-notes) |       4.0-8.13       |                     |                         |
 | [Otter \| 2025.2.1](https://developer.android.com/studio/releases/past-releases/as-otter-release-notes) |       4.0-8.13       |                     |                         |
 | [Narwhal 4 Feature Drop \| 2025.1.4](https://developer.android.com/studio/releases/past-releases/as-narwhal-4-feature-drop-release-notes) |       4.0-8.13       |                     |                         |
@@ -179,6 +181,7 @@
 
 |  KGP version  | Gradle versions | AGP versions |
 | :-----------: | :-------------: | :----------: |
+|    2.3.10     |   7.6.3–9.0.0   | 8.2.2–9.0.0  |
 |     2.3.0     |   7.6.3–9.0.0   | 8.2.2–8.13.0 |
 | 2.2.20–2.2.21 |   7.6.3–8.14    | 7.3.1–8.11.1 |
 | 2.2.0-2.2.10  |   7.6.3–8.14    | 7.3.1–8.10.0 |
@@ -202,6 +205,7 @@
 
 | KGP version  | Gradle versions | AGP versions | XCode |
 | :----------: | :-------------: | :----------: | :---: |
+|    2.3.10    |   7.6.3–9.0.0   | 8.2.2–9.0.0  | 26.0  |
 |    2.3.0     |   7.6.3–9.0.0   | 8.2.2–8.13.0 | 26.0  |
 |    2.2.21    |   7.6.3–8.14    | 7.3.1–8.11.1 | 26.0  |
 |    2.2.20    |   7.6.3–8.14    | 7.3.1–8.11.1 | 16.4  |
@@ -248,6 +252,8 @@
 
 | ProGuard Version | JDK Version | Kotlin Version |
 | :--------------: | :---------: | :------------: |
+|       7.8        |     25      |      2.2       |
+|       7.7        |     24      |                |
 |       7.6        |     23      |                |
 |      7.5.0       |     22      |      2.0       |
 |    7.4-7.4.2     |     21      |      1.9       |
