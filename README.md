@@ -10,6 +10,7 @@
 
 | VersionCodeName                                              | API Level | Name                                                         |  Time   |
 | :----------------------------------------------------------- | :-------: | :----------------------------------------------------------- | :-----: |
+| Build.VERSION_CODES.[CinnamonBun](https://developer.android.com/about/versions/17/setup-sdk) |    37     | [17.0(CinnamonBun)<sup>Beta</sup>](https://developer.android.com/about/versions/17) |   TBD   |
 | Build.VERSION_CODES.[Baklava](https://cs.android.com/android/platform/superproject/main/+/main:external/robolectric/annotations/src/main/java/org/robolectric/versioning/AndroidVersions.java;drc=36303b838229bcd21b0d72278dd6879497bc285b;bpv=1;bpt=1;l=744?q=Baklava&ss=android%2Fplatform%2Fsuperproject%2Fmain) |    36     | [16.0(Baklava)](https://developer.android.com/about/versions/16) | 2025.06 |
 | Build.VERSION_CODES.VANILLA_ICE_CREAM                        |    35     | [15.0(Vanilla Ice Cream)](https://developer.android.com/about/versions/15) | 2024.09 |
 | Build.VERSION_CODES.UPSIDE_DOWN_CAKE                         |    34     | [14.0(Upside Down Cake)](https://developer.android.com/about/versions/14) | 2023.10 |
@@ -65,6 +66,7 @@
 
 | Android Version | API Level |                         JDK Version                          |
 | :-------------: | :-------: | :----------------------------------------------------------: |
+|   Android 17    |    37     |                              -                               |
 |   Android 16    |    36     |                              -                               |
 |   Android 15    |    35     | [17](https://developer.android.com/about/versions/15/features#core-libraries) |
 |   Android 14    |    34     | [17](https://developer.android.com/about/versions/14/features#core-libraries) |
@@ -313,6 +315,7 @@
 
 > - [Android API Levels](https://apilevels.com/)
 > * [Codenames, Tags, and Build Numbers](https://source.android.com/setup/start/build-numbers)
+> * [Release notes | Android Open Source Project](https://source.android.com/docs/whatsnew/release-notes)
 
 ---
 
