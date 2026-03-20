@@ -95,6 +95,7 @@
 
 |                         AGP version                          | Minimum required Gradle version | SDK Build Tools |      NDK      | JDK  |
 | :----------------------------------------------------------: | :-----------------------------: | :-------------: | :-----------: | :--: |
+| [9.2](https://developer.android.com/build/releases/agp-9-2-0-release-notes) |              9.5.0              |     36.0.0      | 28.2.13676358 |  17  |
 | [9.1](https://developer.android.com/build/releases/agp-9-1-0-release-notes) |              9.3.1              |     36.0.0      | 28.2.13676358 |  17  |
 | [9.0](https://developer.android.com/build/releases/agp-9-0-0-release-notes) |              9.1.0              |     36.0.0      | 28.2.13676358 |  17  |
 | [8.13](https://developer.android.com/build/releases/gradle-plugin#compatibility) |              8.13               |     35.0.0      | 27.0.12077973 |  17  |
@@ -147,7 +148,8 @@
 
 |                    Android Studio version                    | Required AGP version | Minimum AGP version |        API level        |
 | :----------------------------------------------------------: | :------------------: | :-----------------: | :---------------------: |
-| [Panda 3 \|2025.3.3<sup>Canary</sup>](https://developer.android.com/studio/preview/features#2025.3.3) |       4.0-9.1        |                     |                         |
+| [Panda 4 \|2025.3.4<sup>Canary</sup>](https://developer.android.com/studio/preview/features#2025.3.4) |       4.0-9.1        |                     |                         |
+| [Panda 3 \|2025.3.3<sup>RC</sup>](https://developer.android.com/studio/preview/features#2025.3.3) |       4.0-9.1        |                     |                         |
 | [Panda 2 \|2025.3.2](https://developer.android.com/studio/releases) |       4.0-9.1        |                     |                         |
 | [Panda 1 \| 2025.3.1](https://developer.android.com/studio/releases/past-releases/as-panda-1-release-notes) |       4.0-9.0        |                     |                         |
 | [Otter 3 Feature Drop \| 2025.2.3](https://developer.android.com/studio/releases/past-releases/as-otter-3-feature-drop-release-notes) |       4.0-9.0        |                     |                         |
@@ -184,6 +186,7 @@
 
 |  KGP version  | Gradle versions | AGP versions |
 | :-----------: | :-------------: | :----------: |
+|    2.3.20     |   7.6.3–9.3.0   | 8.2.2–9.0.0  |
 |    2.3.10     |   7.6.3–9.0.0   | 8.2.2–9.0.0  |
 |     2.3.0     |   7.6.3–9.0.0   | 8.2.2–8.13.0 |
 | 2.2.20–2.2.21 |   7.6.3–8.14    | 7.3.1–8.11.1 |
@@ -208,6 +211,7 @@
 
 | KGP version  | Gradle versions | AGP versions | XCode |
 | :----------: | :-------------: | :----------: | :---: |
+|    2.3.20    |   7.6.3–9.3.0   | 8.2.2–9.0.0  | 26.0  |
 |    2.3.10    |   7.6.3–9.0.0   | 8.2.2–9.0.0  | 26.0  |
 |    2.3.0     |   7.6.3–9.0.0   | 8.2.2–8.13.0 | 26.0  |
 |    2.2.21    |   7.6.3–8.14    | 7.3.1–8.11.1 | 26.0  |
@@ -235,17 +239,18 @@
 
 | Kotlin version | Required AGP version | Required D8 and R8 version |
 | :------------: | :------------------: | :------------------------: |
-|      1.3       |         4.1          |           2.1.86           |
-|      1.4       |         7.0          |           3.0.76           |
-|      1.5       |         7.0          |           3.0.77           |
-|      1.6       |         7.1          |           3.1.51           |
-|      1.7       |         7.2          |           3.2.47           |
-|      1.8       |         7.4          |           4.0.48           |
-|      1.9       |         8.0          |           8.0.27           |
-|      2.0       |         8.5          |           8.5.10           |
-|      2.1       |         8.6          |           8.6.17           |
-|      2.2       |         8.10         |          8.10.21           |
+|      2.4       |        9.1.0         |           9.1.29           |
 |      2.3       |        8.13.2        |          8.13.19           |
+|      2.2       |         8.10         |          8.10.21           |
+|      2.1       |         8.6          |           8.6.17           |
+|      2.0       |         8.5          |           8.5.10           |
+|      1.9       |         8.0          |           8.0.27           |
+|      1.8       |         7.4          |           4.0.48           |
+|      1.7       |         7.2          |           3.2.47           |
+|      1.6       |         7.1          |           3.1.51           |
+|      1.5       |         7.0          |           3.0.77           |
+|      1.4       |         7.0          |           3.0.76           |
+|      1.3       |         4.1          |           2.1.86           |
 
 
 
@@ -255,6 +260,7 @@
 
 | ProGuard Version | JDK Version | Kotlin Version |
 | :--------------: | :---------: | :------------: |
+|       7.9        |     26      |      2.3       |
 |       7.8        |     25      |      2.2       |
 |       7.7        |     24      |                |
 |       7.6        |     23      |                |
