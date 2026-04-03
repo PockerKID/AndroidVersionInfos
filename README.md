@@ -149,8 +149,8 @@
 |                    Android Studio version                    | Required AGP version | Minimum AGP version |        API level        |
 | :----------------------------------------------------------: | :------------------: | :-----------------: | :---------------------: |
 | [Panda 4 \|2025.3.4<sup>Canary</sup>](https://developer.android.com/studio/preview/features#2025.3.4) |       4.0-9.1        |                     |                         |
-| [Panda 3 \|2025.3.3<sup>RC</sup>](https://developer.android.com/studio/preview/features#2025.3.3) |       4.0-9.1        |                     |                         |
-| [Panda 2 \|2025.3.2](https://developer.android.com/studio/releases) |       4.0-9.1        |                     |                         |
+| [Panda 3 \|2025.3.3](https://developer.android.com/studio/releases) |       4.0-9.1        |                     |                         |
+| [Panda 2 \|2025.3.2](https://developer.android.com/studio/releases/past-releases/as-panda-2-release-notes) |       4.0-9.1        |                     |                         |
 | [Panda 1 \| 2025.3.1](https://developer.android.com/studio/releases/past-releases/as-panda-1-release-notes) |       4.0-9.0        |                     |                         |
 | [Otter 3 Feature Drop \| 2025.2.3](https://developer.android.com/studio/releases/past-releases/as-otter-3-feature-drop-release-notes) |       4.0-9.0        |                     |                         |
 | [Otter 2 Feature Drop \| 2025.2.2](https://developer.android.com/studio/releases/past-releases/as-otter-2-feature-drop-release-notes) |       4.0-8.13       |                     |                         |
